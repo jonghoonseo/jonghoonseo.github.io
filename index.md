@@ -12,12 +12,12 @@ FI-00014 University of Helsinki, Finland<br/>
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
+  <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> -
   <a href="http://www.helsinki.fi/geodynamics"><i class="fa-solid fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
+  <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> -
+  <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> -
   <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
-  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
+  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> -
   <a href="https://twitter.com/dave_whipp"><i class="fa-brands fa-twitter"></i> @dave_whipp</a>
 </div>
 
@@ -75,13 +75,13 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 ### Journal articles
 
-<!-- 
+<!--
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
 
-<!-- 
+<!--
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 -->
 
@@ -276,7 +276,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
 “Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
 
-<!-- 
+<!--
 ### Presentations
 
 *Past 4 years. Asterisks indicate student lead authors.*
@@ -772,7 +772,7 @@ Citizenship: USA
 
 Residence: Finland (Permanent resident)
 
-<!-- 
+<!--
 Family: Married, two children
 -->
 
