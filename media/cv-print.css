@@ -1,7 +1,9 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Noto+Sans+KR:wght@100..900&display=swap');
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -12,8 +14,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +26,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -53,10 +55,10 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
+	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: 'Noto Sans KR', sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -84,7 +86,7 @@ p code {
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 25%;
 	width: 60%;
@@ -103,6 +105,7 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	margin-bottom: 1.5em;
 	/*color: #777;*/
 }
 
@@ -115,7 +118,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: 'Noto Sans KR', sans-serif;
 	width: 80%;
 }
 
@@ -127,7 +130,7 @@ h1 {
 	left: 25%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -146,7 +149,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
@@ -178,7 +181,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e
 }
 
 strong {
@@ -189,7 +192,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
