@@ -43,6 +43,18 @@ Any change you want to make to your CV from then on would have to be done on the
 4. You can edit the `index.md` file and see changes live in your browser.
 5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
 
+### Using Docker
+
+I'm using [jekyll-docker](https://github.com/envygeeks/jekyll-docker). To see more detail, see its github.
+
+Serving in local with tracing mode.
+```bash
+$ export JEKYLL_VERSION=3.8
+$ docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" --publish 4000:4000 \
+  jekyll/jekyll:$JEKYLL_VERSION \
+  jekyll serve --trace
+```
 
 ### is this the only style available?
 
