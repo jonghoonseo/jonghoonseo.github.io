@@ -17,7 +17,7 @@ CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 
 ## Education
 
-`2003-2008`
+`2008-2016`
 **Ph.D., Computer Science**, *연세대학교*, 서울, 대한민국.
 
 `2006-2008`
