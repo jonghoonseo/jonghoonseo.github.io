@@ -12,7 +12,6 @@ CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
   <a href="https://jonghoonseo.github.io"><i class="fa-solid fa-house"></i> jonghoonseo.github.io</a> -
   <a href="https://github.com/jonghoonseo"><i class="fa-brands fa-github"></i> jonghoonseo</a> -
   <a href="https://www.linkedin.com/in/jonghoonseo"><i class="fa-brands fa-linkedin"></i> jonghoonseo</a> -
-  <a href="https://x.com/jonghoonseo"><i class="fa-brands fa-twitter"></i> @jonghoonseo</a>
 </div>
 
 ## Education
@@ -47,12 +46,17 @@ CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 
 ## Projects
 
-`2024.03 - 2024.07` **신한투자증권**
+`2024.04 - 2024.11` **신한투자증권**
 On-premise RAG (Retrieval-Augmented Generation) 질의응답 시스템 개발<br/>
 . On-premise 환경에서 동작하는 RAG 기반 질의응답 시스템 개발 리드<br/>
-. 신한투자증권의 7개 KMS 상의 5,000건 이상의 문서 처리 및 인식 시스템 개발<br/><br/>
+. 신한투자증권의 사규, 인사규정, 사내 게시판, 홈페이지, KMS 등의 10,000건 이상의 문서 처리 및 인식 시스템 개발<br/><br/>
 
-`2023.10 - 2024.03` **KB카드**
+`2023.10 - 2024-03` **현대자동차(MVP)**
+LLM 기반의 카마스터 봇 개발<br/>
+. 차량 정보 기반의 RAG 시스템 개발 및 고도화<br/>
+. 간단한 Agent 기반의 차량 이미지 제공 시스템 개발<br/><br/>
+
+`2023.10 - 2024.03` **KB카드(PoC)**
 SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 . KB카드 legacy 시스템과 연동하여 daily 로 정보를 업데이트하여 질의응답하는 시스템 개발<br/>
 . 금융사 요건을 충족하도록 SaaS 시스템 설계<br/>
