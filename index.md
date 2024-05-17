@@ -5,7 +5,7 @@ title: Jonghoon Seo's CV
 # 서종훈 Jonghoon Seo
 <br/>
 
-CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
+Ph.D, CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 <a href="jonghoon.seo@skelterlabs.com">jonghoon.seo@skelterlabs.com</a> - +82-010-8357-1688<br/>
 
 <div id="webaddress">
