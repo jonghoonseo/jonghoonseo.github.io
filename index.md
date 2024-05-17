@@ -145,4 +145,4 @@ SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 - etc...
 
 
-<br/>Last updated: 2024-04-21<br/><br/>
+<br/>Last updated: 2024-05-17<br/><br/>
