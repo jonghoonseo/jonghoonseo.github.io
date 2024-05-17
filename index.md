@@ -11,7 +11,7 @@ CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 <div id="webaddress">
   <a href="https://jonghoonseo.github.io"><i class="fa-solid fa-house"></i> jonghoonseo.github.io</a> -
   <a href="https://github.com/jonghoonseo"><i class="fa-brands fa-github"></i> jonghoonseo</a> -
-  <a href="https://www.linkedin.com/in/jonghoonseo"><i class="fa-brands fa-linkedin"></i> jonghoonseo</a> -
+  <a href="https://www.linkedin.com/in/jonghoonseo"><i class="fa-brands fa-linkedin"></i> jonghoonseo</a>
 </div>
 
 ## Education
