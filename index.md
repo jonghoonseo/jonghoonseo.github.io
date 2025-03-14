@@ -18,7 +18,7 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
   <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
   <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fa-brands fa-twitter"></i> @dave_whipp</a>
+  <a href="https://bsky.app/profile/davewhipp.bsky.social"><i class="fa-brands fa-bluesky"></i> @davewhipp</a>
 </div>
 
 ## Education
@@ -67,7 +67,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### Books
 
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2023). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2025). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
 
 <!--
 ### Journal articles, in preparation
@@ -79,13 +79,14 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
-V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
-
 <!-- 
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 -->
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. **in revision**.
+
+`2024`
+V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
 
 `2022`
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
@@ -148,13 +149,11 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
 
--->
-
-### Under review
-
 `2024-2028`
 **Research infrastructure funding**, *Academy of Finland*, Finland, 961 620€ (Project total: 1 956 596€). Consortium PI.<br/>
 DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
+
+-->
 
 ### Research funding
 
@@ -256,6 +255,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ### Organization
 
+`2024, 2014`
+**Steering committee**, *Lithosphere symposium*, Finland.
+
 `2017`
 **Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
 “Global modelling of early and recent Earth”
@@ -264,9 +266,6 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Session co-convener**, *Nordic Geological Winter Meeting*, Helsinki, Finland.<br/>
 “Dynamics and evolution of the lithosphere from Archean to present”<br/>
 “Interactions between climate, erosion and tectonics”
-
-`2014`
-**Steering committee**, *Lithosphere 2014 symposium*, Turku, Finland.
 
 `2013`
 **Session co-chair**, *28th Himalayan Karakorum Tibet Workshop and 6th International Symposium on Tibetan Plateau Joint Conference*, Tübingen, Germany.<br/>
@@ -443,16 +442,16 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 - \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen and Vuokko Heikinheimo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Geo-Python (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
+- \- Introduction to Lithospheric Geodynamic Modelling (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
 - \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
+- \- Lithospheric Structure and Dynamics (co-taught until 2023)
 
 `2018`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Conducting scientific research (with Tapani Rämö)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+- \- Conducting scientific research (co-taught)
 
 ### Short courses
 
@@ -475,7 +474,7 @@ Co-taught with Lars Kaislaniemi
 
 `2010-present`
 **Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Guest lectures in years 2010, 2019, 2021, 2022
+Guest lectures in years 2010, 2019, 2021, 2022, 2024
 
 `2019`
 **Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
@@ -531,7 +530,20 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
-`2020-present`
+`2023-present`
+**Ana-Belen Haivio Reales**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Ian Corfe, Toni Luoto, and Johanna Salminen
+
+**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Leevi Tuikka
+
+**Liisa Nygrén**,  *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Lotta Ylä-Mella
+
+**Sanni Laaksonen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Ann-Kathrin Maier
+
+`2020-2024`
 **Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Tuija Luhta and Kati Oinonen
 
@@ -685,15 +697,13 @@ Did not attend/judge in 2015
 `2007-present`
 **Referee**.
 
-**Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
+**Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
 
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
 
 `2022-present`
-**Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
 **Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
 
 `2020-present`
@@ -702,10 +712,17 @@ Did not attend/judge in 2015
 `2018-present`
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
-**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
+`2017-present`
+**Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2022-2024`
+**Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
 `2021-2022`
 **Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2018-2023`
+**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
 
 `2018-2022`
 **Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
@@ -776,4 +793,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: December 2023<br/><br/>
+<br/>Last updated: January 2025<br/><br/>
