@@ -28,8 +28,8 @@ Ph.D, CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 ## Work Experience
 
 `2018.05 - 현재`
-**스켈터랩스** *CTO*<br/>
-. 한국어 sLLM 모델 학습 및 RAG 시스템 개발<br/>
+**스켈터랩스** *SW Engineer, CTO(2022.08-)*<br/>
+. 한국어 기반 생성형AI 제품 개발. RAG, Agent 제품 개발 및 프로젝트 기술 리드. 자체 sLLM 모델학습 기술 리드.<br/>
 . 한국어 음성인식 모델 및 시스템 개발<br/>
 . 딥러닝 기반 결함 검출 모델 및 시스템 개발<br/><br/>
 
@@ -44,23 +44,56 @@ Ph.D, CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 . 멀티 모달 인터페이스들을 통합하는 상호작용 프레임워크 개발<br/>
 . 차세대 상호작용 기술을 이용한 UX 설계<br/><br/>
 
-## Projects
+## GenAI Experience
 
-`2024.04 - 2024.11` **신한투자증권**
-On-premise RAG (Retrieval-Augmented Generation) 질의응답 시스템 개발<br/>
-. On-premise 환경에서 동작하는 RAG 기반 질의응답 시스템 개발 리드<br/>
+`Use Cases` **Bella Use Cases** ([link](https://bit.ly/jseo_bella))
+스켈터랩스의 생성형AI 프로젝트 기술 리드<br/>
+. RAG(Retrieval-Augmented Generation), Agent 기술을 조합하여 다양한 Use Case 개발<br/>
+. 보고서 생성, 질의응답, Legacy 시스템 연동 등 다양한 Use Case 개발<br/><br/>
+
+`Productize` **Bella QNA/Agent/LLM**
+스켈터랩스의 생성형AI 제품 개발 리드<br/>
+. Bella QNA: 다양한 문서를 기반으로 질의응답하는 Agentic RAG 제품<br/>
+. Bella Agent: RAG 기술 뿐만 아니라 Legacy 시스템과의 연동이 가능한 Agent 제품<br/>
+. Bella LLM: On-premise LLM 제공을 위한 finetuned LLM 모델. Llama, Qwen 계열 모델 Finetuning<br/><br/>
+
+`2025.02 - 2025.03` **커니(본과제 / Text2SQL)**
+커니 고객사의 마켓팅정보 DB 를 기반으로 대화형으로 Insight 를 도출하기 위한 Text2SQL 시스템 개발 리드<br/>
+. 다양한 DB 를 기반으로 Join, GroupBy 등 복잡한 쿼리를 지원하는 Text2SQL 시스템 개발<br/>
+. 쿼리 결과를 기반으로 표, 그래프 등으로 표현을 생성<br/>
+. 생성된 표, 그래프를 Visualize 하여 Insight 도출할 수 있는 클라이언트 개발<br/><br/>
+
+`2024.08 - 2024.11` **경찰청(본과제 / 요약 / 자체LLM)**
+조서 문서들을 요약하여 수사 보고서를 생성하는 On-premise LLM 모델 및 시스템 개발 리드<br/>
+. 오픈소스 LLM 모델을 Finetuning 하기 위한 데이터셋 생성<br/>
+. Qwen2 7B 모델 기반 모델 Finetuning<br/>
+. 개발된 모델 기반의 보고서 요약 시스템 개발 리드<br/><br/>
+
+`2024.05 - 2024.08` **MDL 대학ERP(PoC / Agent)**
+학칙 등에 대한 질의응답 및 ERP 시스템 연동을 제공하는 Agent 개발<br/>
+. 학칙에 대한 질의응답과 장학금 신청 등 ERP 시스템 연동이 가능한 Agent 제품 개발 리드<br/>
+. Bella Agent 제품을 이용하여 API Spec 문서 입력만으로 연동 가능한 시스템 개발<br/>
+. 2025.03-2025.06 목표로 후속 과제 진행 중<br/><br/>
+
+`2024.04 - 2024.11` **신한투자증권(본과제 / Q&A)**
+On-premise RAG 질의응답 시스템 개발<br/>
+. Bella QNA 제품을 이용하여 On-premise 환경에서 동작하는 RAG 기반 질의응답 시스템 개발 리드<br/>
 . 신한투자증권의 사규, 인사규정, 사내 게시판, 홈페이지, KMS 등의 10,000건 이상의 문서 처리 및 인식 시스템 개발<br/><br/>
 
-`2023.10 - 2024-03` **현대자동차(MVP)**
+`2023.10 - 2024-03` **현대자동차(MVP / Q&A)**
 LLM 기반의 카마스터 봇 개발<br/>
 . 차량 정보 기반의 RAG 시스템 개발 및 고도화<br/>
 . 간단한 Agent 기반의 차량 이미지 제공 시스템 개발<br/><br/>
 
-`2023.10 - 2024.03` **KB카드(PoC)**
+`2023.10 - 2024.03` **KB카드(PoC / Q&A)**
 SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 . KB카드 legacy 시스템과 연동하여 daily 로 정보를 업데이트하여 질의응답하는 시스템 개발<br/>
 . 금융사 요건을 충족하도록 SaaS 시스템 설계<br/>
 . OpenAI gpt 3.5 모델 기반의 RAG 시스템 개발<br/><br/>
+
+그 외 다수 생성형AI 프로젝트 기술 리드<br/><br/>
+
+## 기타 Projects
 
 `2022.05 - 2022.10` **위대한상상**
 *음성인식 기술리드*, AICC (AI Contact Center) 내 실시간 통화 전사 시스템 개발<br/>
@@ -68,7 +101,7 @@ SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 . On-premise 환경에서 동작하는 음성 모델 Serving 시스템 개발<br/><br/>
 
 `2021.05 - 2021.12` **NIA 한국지능정보사회진흥원**
-*개발책임*, 외국어 음성 전사/번역 데이터셋 개발<br/>
+*개발책임*, 외국어 음성 기반 STT / Translation 모델 개발<br/>
 . 구축된 한국어 음성 데이터셋 검증을 위한 한국어 전사 모델 개발 및 학습<br/>
 . 구축된 외국어 음성 번역 데이터셋 검증을 위한 한국어-외국어 음성번역 모델 개발 및 학습<br/><br/>
 
@@ -142,7 +175,6 @@ SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 *Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Mar. 2017. [link](https://doi.org/10.1109/ICASSP.2017.795305)
 - Seungho Chae, **Jonghoon Seo**, Yoonsik Yang, and Tack-Don Han, ColorCodeAR: Large identifiable ColorCode-based augmented reality system,
 *Proceedings of IEEE International Conference on Systems, Man, and Cybernetics*, Oct. 2016. [link](https://doi.org/10.1109/SMC.2016.7844630)
-- etc...
 
 
 <br/>Last updated: 2024-05-17<br/><br/>
