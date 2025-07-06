@@ -57,6 +57,12 @@ Ph.D, CTO, [Skelter Labs](https://skelterlabs.com<br/>)<br/>
 . Bella Agent: RAG 기술 뿐만 아니라 Legacy 시스템과의 연동이 가능한 Agent 제품<br/>
 . Bella LLM: On-premise LLM 제공을 위한 finetuned LLM 모델. Llama, Qwen 계열 모델 Finetuning<br/><br/>
 
+`2025.05~현재` **삼성전자(본과제 / Agent, RAG, Q&A)**
+AI Agent 기술을 이용한 IT Concierge 챗봇 개발<br/>
+. 삼성전자 Gauss 모델 기반의 AI agent, RAG 기술 개발<br/>
+. IT Concierge 챗봇 개발을 위한 데이터 처리<br/>
+. AI agent 프레임워크 개발<br/><br/>
+
 `25.02-25.03` **커니(본과제 / Text2SQL)**
 커니 고객사의 마켓팅정보 DB 를 기반으로 대화형으로 Insight 를 도출하기 위한 Text2SQL 시스템 개발 리드<br/>
 . 다양한 DB 를 기반으로 Join, GroupBy 등 복잡한 쿼리를 지원하는 Text2SQL 시스템 개발<br/>
