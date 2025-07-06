@@ -181,4 +181,4 @@ SaaS 기반의 RAG 질의응답 시스템 개발<br/>
 *Proceedings of IEEE International Conference on Systems, Man, and Cybernetics*, Oct. 2016. [link](https://doi.org/10.1109/SMC.2016.7844630)
 - and more...
 
-<br/>Last updated: 2024-05-17<br/><br/>
+<br/>Last updated: 2025-07-06<br/><br/>
